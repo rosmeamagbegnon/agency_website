@@ -1,14 +1,13 @@
-import { StrictMode } from 'react';
-import { createRoot } from 'react-dom/client';
-import './index.css';
+import { StrictMode } from 'react'
+import { createRoot } from 'react-dom/client'
+import App from './App'
 
-import Footer from './composants/footer';
+import './index.css'
 import HeroSection from './composants/HeroSection'
-import Caring from './composants/caring'
+
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-   <Caring/>
-  <HeroSection/>
-  <Footer/>
+    <App/>
+    <HeroSection/>
   </StrictMode>,
 )
