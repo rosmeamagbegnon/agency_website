@@ -12,14 +12,18 @@ import Clients from './composants/Clients';
 import Management from './composants/Management';
 
 
+import Unseen from './composants/Unseen'
+import Helping from './composants/Helping'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Header/>
     <Section/>
     <Clients/>
     <Management/>
-    <Caring/>
+    <Unseen/>
+    <Helping/>
     <HeroSection/>
+    <Caring/>
     <Footer/>
   </StrictMode>,
 )
