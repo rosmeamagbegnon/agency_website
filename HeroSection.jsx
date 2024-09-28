@@ -1,4 +1,4 @@
-import { FaGithub } from "react-icons/fa";
+
 
 const HeroSection = () => {
     return ( 
