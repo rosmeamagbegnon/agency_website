@@ -3,19 +3,19 @@ import { createRoot } from 'react-dom/client'
 
 
 import './index.css'
-import HeroSection from './composants/HeroSection'
-import Footer from './composants/Footer';
-import Caring from './composants/caring';
-import Header from './composants/Header';
-import Section from './composants/Section';
-import Clients from './composants/Clients';
-import Management from './composants/Management';
+import HeroSection from './HeroSection'
+import Footer from './Footer';
+import Caring from './caring';
+import Header from './Header';
+import Section from './Section';
+import Clients from './Clients';
+import Management from '.Management';
 
 
-import Smith from './composants/smith'
-import Design from './composants/design'
-import Unseen from './composants/Unseen'
-import Helping from './composants/Helping'
+import Smith from './smith'
+import Design from './design'
+import Unseen from './Unseen'
+import Helping from './Helping'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Header/>
