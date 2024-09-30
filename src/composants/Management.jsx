@@ -9,7 +9,7 @@ const Management = () => {
             <div className="justify-center gap-20 2xl:gap-x-72 flex flex-wrap">
                 <div className="text-center 2xl:font-semibold">
                     <div className="pl-24  ">
-                        <img className=" h-7  bg-green-100 " src="/src/assets/F20.png" alt="Hello" />
+                        <img className=" h-7  bg-green-100 " src="Assets/F20.png" alt="Hello" />
                     </div>
                     <h1 className="text-black text-xl 2xl:text-2xl">Membership</h1>
                     <h1 className="text-black text-xl 2xl:text-2xl pb-1 ">Organisations</h1>
@@ -19,7 +19,7 @@ const Management = () => {
                 </div>
                 <div className="text-center 2xl:font-semibold">
                     <div className="pl-24">
-                        <img className=" h-7 bg-green-100" src="/src/assets/F21.png" alt="Hello" />
+                        <img className=" h-7 bg-green-100" src="Assets/F21.png" alt="Hello" />
                     </div>
                     <h1 className="text-black text-xl 2xl:text-2xl">National</h1>
                     <h1 className="text-black text-xl 2xl:text-2xl pb-1">Associations</h1>
@@ -29,7 +29,7 @@ const Management = () => {
                 </div>
                 <div className="text-center 2xl:font-semibold">
                     <div className="pl-24 ">
-                        <img className=" h-7 bg-green-100" src="/src/assets/F20.png" alt="Hello" />
+                        <img className=" h-7 bg-green-100" src="/Assets/F20.png" alt="Hello" />
                     </div>
                     <h1 className="text-black text-xl 2xl:text-2xl">Clubs And</h1>
                     <h1 className="text-black text-xl 2xl:text-2xl pb-1">Groups</h1>

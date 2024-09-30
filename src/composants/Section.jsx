@@ -8,7 +8,7 @@ const Section = () => {
                 <button className=" py-2 px-4 rounded bg-green-600 "> <a className="text-white " href="#">Register</a></button>
             </div>
             <div>
-                <img className="w-56 h-56" src="/src/assets/F1.png" alt="Hello" />
+                <img className="w-56 h-56" src="Assets/F1.png" alt="Hello" />
             </div>
         </section>
      );

@@ -8,7 +8,7 @@ const HeroSection = () => {
            <button className="bg-green-600 flex  mt-10 rounded-lg hover:bg-green-800">
               <p className="p-4 text-white">Get a Demo</p>
              <div className="text-white font-bold text-2xl mt-4 ">
-             <img src="/src/Assets/Right.png" alt="" className="text-white"/>
+             <img src="/Assets/Right.png" alt="" className="text-white"/>
              </div>
            </button>
           

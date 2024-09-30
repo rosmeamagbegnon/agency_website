@@ -4,20 +4,20 @@ const Helping = () => {
             id:1,
             descr1:"2,245,341",
             descr2:"Members",
-            imag:'/src/assets/F16.png'
+            imag:'/Assets/F16.png'
         },
         
         {
             id:2,
             descr1: "828,867" ,
             descr2:"Event Booking",
-            imag:'/src/assets/F17.png'
+            imag:'/Assets/F17.png'
         },
         {
             id:3,
             descr1:"46,328 ",
             descr2:"Clubs",
-            imag:'/src/assets/F18.png'
+            imag:'/Assets/F18.png'
         },
 
         
@@ -25,7 +25,7 @@ const Helping = () => {
             id:4,
             descr1: "1,926,436" ,
             descr2:"Payments",
-            imag:'/src/assets/F19.png'
+            imag:'/Assets/F19.png'
         },
     ]
     return (  

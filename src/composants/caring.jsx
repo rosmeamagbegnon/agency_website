@@ -4,19 +4,19 @@ import { FaArrowRightLong } from "react-icons/fa6";
     {
         id:1,
         description:"Creating Streamlined Safeguarding Processes with OneRen",
-        image:'/src/Assets/image18.png'
+        image:'/Assets/image18.png'
 
     },
     {
         id:2,
         description:"What are your safeguarding responsibilities and how ?",
-        image:'/src/Assets/image19.png'
+        image:'/Assets/image19.png'
 
     },
     {
         id:3,
         description:"Revamping the Membership Model with Triathlon Australia",
-        image:'/src/Assets/image20.png'
+        image:'/Assets/image20.png'
 
     } 
  ]
