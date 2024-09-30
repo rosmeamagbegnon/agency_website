@@ -1,6 +1,6 @@
 const Design = () => {
     return ( 
-        <section className="flex flex-wrap px-16  justify-center  text-center md:text-justify gap-20 ">
+        <section className="md:flex  px-16  justify-center  text-center md:text-justify gap-20 ">
             <div >
                 <img src="/src/Assets/pana.png" alt="" />
             </div>
