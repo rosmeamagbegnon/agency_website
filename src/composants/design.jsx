@@ -2,7 +2,7 @@ const Design = () => {
     return ( 
         <section className="md:flex  px-16  justify-center  text-center md:text-justify gap-20 ">
             <div >
-                <img src="/src/Assets/pana.png" alt="" />
+                <img src="/Assets/pana.png" alt="" />
             </div>
             <div className="mt-10  justify-center  ">
                 <p className="text-3xl font-medium ">How to design your site footer like</p>

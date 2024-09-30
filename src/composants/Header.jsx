@@ -3,11 +3,11 @@ const Header = () => {
     return ( 
         <nav className=" justify-between flex flex-wrap bg-neutral-100 px-2 xl:px-16">
             <div className="flex flex-wrap py-4">
-                <img className="h-5 2xl:h-8 pt-1" src="/src/assets/F23.png" alt="Hello" />
+                <img className="h-5 2xl:h-8 pt-1" src="/Assets/F23.png" alt="Hello" />
                 <h1 className="font-bold text-black text-xl 2xl:text-2xl pl-1">Nexcent</h1>
             </div>
             <div  className="cursor-pointer w-7 md:hidden pt-4">
-                <img src="/src/Assets/menu.svg" alt="" />
+                <img src="/Assets/menu.svg" alt="" />
             </div>
 
             <ul className="flex pt-10   md:pt-5 flex-col md:flex-row absolute md:relative">

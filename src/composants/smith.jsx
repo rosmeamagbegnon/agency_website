@@ -3,7 +3,7 @@ import { FaArrowRightLong } from "react-icons/fa6";const Smith = () => {
     return ( 
         <section className="md:flex justify-center px-16 mx-auto bg-slate-50 min-h-96 mt-10 ">
             <div className="flex items-center justify-center px-8 md:px-16  py-8 ml-[10%]">
-                <img src="/src/Assets/image9.png" alt="" />
+                <img src="/Assets/image9.png" alt="" />
             </div>
             <div className="flex flex-col justify-center mt-4 ">
                 <div className=" flex-wrap text-sm ">
@@ -21,12 +21,12 @@ import { FaArrowRightLong } from "react-icons/fa6";const Smith = () => {
                 </div>
                 <div className="flex flex-wrap mt-10">
                     <div className="flex flex-wrap">
-                    <img src="/src/Assets/logo7.png" alt="" />
-                <img src="/src/Assets/logo1.png" alt="" className="ml-5" />
-                <img src="/src/Assets/logo9.png" alt="" className="ml-5"/>
-                <img src="/src/Assets/logo10.png" alt="" className="ml-5"/>
-                <img src="/src/Assets/logo11.png" alt="" className="ml-5"/>
-                <img src="/src/Assets/logo5.png" alt="" className="ml-5"/>
+                    <img src="/Assets/logo7.png" alt="" />
+                <img src="/Assets/logo1.png" alt="" className="ml-5" />
+                <img src="/Assets/logo9.png" alt="" className="ml-5"/>
+                <img src="/Assets/logo10.png" alt="" className="ml-5"/>
+                <img src="/Assets/logo11.png" alt="" className="ml-5"/>
+                <img src="/Assets/logo5.png" alt="" className="ml-5"/>
                 <div className="flex" >
                 <p className="text-green-400 font-semibold md:text-xl text-sm mt-4 ml-4 cursor-pointer hover:text-green-800">Meet all customers</p>
                 <FaArrowRightLong className="text-green-600 inline-block mt-5 ml-3 text-2xl cursor-pointer hover:text-green-800" />

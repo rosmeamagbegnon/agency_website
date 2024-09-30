@@ -4,7 +4,7 @@ const Footer = () => {
         <section className="bg-slate-900 w-full min-h-80 relative flex flex-wrap">
           <div className=" p-5 mt-5">
              <div className="flex">
-                <img src="/src/Assets/Icon2.png" alt="" className="w-[30px] h-[25px]"/>
+                <img src="/Assets/Icon2.png" alt="" className="w-[30px] h-[25px]"/>
                 <p className="ml-4 text-2xl font-bold text-white">Nexcent</p>
              </div>
              <div className="mt-[16px] ml-[10px] text-white">
@@ -12,10 +12,10 @@ const Footer = () => {
               <p className="mt-3">All rights reserved</p>
              </div>
              <div className="flex mt-9">
-                <img src="/src/Assets/insta.png" alt="" />
-                <img src="/src/Assets/rond.png" alt="" className="ml-2" />
-                <img src="/src/Assets/twitter.png" alt="" className="ml-2" />
-                <img src="/src/Assets/youtube.png" alt=""  className="ml-2"/>
+                <img src="/Assets/insta.png" alt="" />
+                <img src="/Assets/rond.png" alt="" className="ml-2" />
+                <img src="/Assets/twitter.png" alt="" className="ml-2" />
+                <img src="/Assets/youtube.png" alt=""  className="ml-2"/>
 
              </div>
           </div>
@@ -39,7 +39,7 @@ const Footer = () => {
             <p className="text-white text-xl font-semibold">Stay up to date</p>
             <div className="flex bg-slate-500  rounded-lg mt-6 cursor-pointer hover:bg-slate-500">
             <input type="text" placeholder="Your email adress" className="bg-slate-500 rounded-l-lg w-[60%] hover:bg-slate-500 cursor-pointer text-white" />
-            <img src="/src/Assets/send.png" alt=""  className="p-3 mr-5"/>
+            <img src="/Assets/send.png" alt=""  className="p-3 mr-5"/>
             </div>
             
                 

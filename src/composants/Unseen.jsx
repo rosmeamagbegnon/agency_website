@@ -2,7 +2,7 @@ const Unseen = () => {
     return ( 
         <section className="text-center md:text-justify justify-center flex flex-wrap bg-white gap-x-40 py-20 2xl:py-40 2xl:gap-x-68 gap-y-10">
              <div>
-                <img className="w-60 h-48" src="/src/assets/F2.png" alt="Hello" />
+                <img className="w-60 h-48" src="/Assets/F2.png" alt="Hello" />
             </div>
             <div>
                 <h1 className="text-black text-2xl md:text-3xl 2xl:text-4xl pt-2 font-semibold">The unseen of spending three</h1>
