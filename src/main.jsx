@@ -1,20 +1,11 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import './index.css'
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './app';
+import './index.css';  // Import du CSS global de l'application
 
-import Management from '../composants/Management'
-import Clients from '../composants/Clients'
-import Header from '../composants/Header'
-import Section from '../composants/Section'
-import Unseen from '../composants/Unseen'
-import Helping from '../composants/Helping'
-createRoot(document.getElementById('root')).render(
-  <StrictMode>
-    <Header/>
-    <Section/>
-    <Clients/>
-    <Management/>
-    <Unseen/>
-    <Helping/>
-  </StrictMode>,
-)
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
