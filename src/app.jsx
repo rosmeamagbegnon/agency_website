@@ -15,7 +15,7 @@ const App = () => {
       <Management />
       <Unseen />
       <Helping />
-    </div>
+    </div> 
   );
 };
 
