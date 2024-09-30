@@ -22,7 +22,7 @@ const Header = () => {
                 <li className="text-green-600 pr-8 pt-5 2xl:font-semibold"><a href="#">Login</a></li>
                 <li className="pt-3"><button className=" py-2 px-2 md:px-4 rounded bg-green-600 "> <a className="text-white" href="#">Sign Up</a></button></li>
             </ul>
-            <script src="/src/composants/script.js"></script>
+            
         </nav>
      );
 }
