@@ -16,7 +16,7 @@ const Header = () => {
                 <img className="h-5 2xl:h-8 pt-1" src="/src/assets/F23.png" alt="Hello" />
                 <h1 className="font-bold text-black text-xl 2xl:text-2xl pl-1">Nexcent</h1>
             </div>
-            <button onClick={toggleNav} className="cursor-pointer w-7 md:hidden pt-1">
+            <button onClick={toggleNav} className="cursor-pointer w-7 md:hidden pt-1 ">
                 <img src="/src/Assets/menu.svg" alt="" />
             </button>
            
