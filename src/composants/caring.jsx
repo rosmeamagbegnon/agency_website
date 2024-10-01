@@ -1,3 +1,4 @@
+import { FaArrowRightLong } from "react-icons/fa6";
 const Caring = () => {
     const blogs = [
         {
