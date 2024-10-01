@@ -17,7 +17,7 @@ const Header = () => {
                 <h1 className="font-bold text-black text-xl 2xl:text-2xl pl-1">Nexcent</h1>
             </div>
             <button onClick={toggleNav} className="cursor-pointer w-7 md:hidden pt-1 ">
-                <img src="/src/Assets/menu.svg" alt="Hello" />
+                <img src="/src/Assets/menu.svg" alt="nav" />
             </button>
            
             <ul className={`flex pt-5 flex-col md:flex-row ${isNavVisible ? 'block' : 'hidden'} md:flex`}>
