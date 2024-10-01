@@ -10,9 +10,12 @@ import Caring from './composants/caring'
 import Smith from './composants/smith'
 import Design from './composants/design'
 
+
 const App = () => {
   return (
     <div>
+      
+     
       <Header />
       <Section />
       <Clients />

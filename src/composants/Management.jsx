@@ -6,7 +6,7 @@ const Management = () => {
                 <h1 className="text-black text-2xl md:text-3xl 2xl:text-4xl pb-1 font-semibold">in a single system</h1>
                 <h2 className="text-gray-400 text-xs 2xl:text-lg  2xl:font-bold pt-1 pb-8 2xl:pb-14">Who is Nextcent suitable for?</h2>
             </div>
-            <div className="justify-center gap-20 2xl:gap-x-72 flex flex-wrap">
+            <div className="justify-center gap-20 xl:gap-x-42 flex flex-wrap">
                 <div className="text-center 2xl:font-semibold">
                     <div className="pl-24  ">
                         <img className=" h-7  bg-green-100 " src="Assets/F20.png" alt="Hello" />
