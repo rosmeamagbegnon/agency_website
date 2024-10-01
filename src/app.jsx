@@ -1,32 +1,31 @@
-import Header from './composants/Header';
+
+
 import Section from './composants/Section';
 import Clients from './composants/Clients';
 import Management from './composants/Management';
 import Unseen from './composants/Unseen';
 import Helping from './composants/Helping';
+import Head from './composants/Head';
+import Design from './composants/design';
+import Smith from './composants/smith';
 import Footer from './composants/footer';
-import HeroSection from './composants/HeroSection'
-import Caring from './composants/caring'
-import Smith from './composants/smith'
-import Design from './composants/design'
-
-
+import Caring from './composants/Caring';
+import HeroSection from './composants/HeroSection';
 const App = () => {
   return (
     <div>
-      
      
-      <Header />
+      <Head/>
       <Section />
       <Clients />
       <Management />
       <Unseen />
       <Helping />
       <Design/> 
-    <Smith/>  
-    <Caring/>
-    <HeroSection/>
-    <Footer/>
+      <Smith/>  
+      <Caring/>
+      <HeroSection/>
+      <Footer/>
     </div> 
   );
 };
