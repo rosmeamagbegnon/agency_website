@@ -13,12 +13,12 @@ const Design = () => {
                     <p>molestie, massa nunc varius arcu, at scelerisque elit erat a magna. Donec quis erat at  </p>
                     <p>libero ultrices mollis. In hac habitasse platea dictumst. Vivamus vehicula leo dui, at porta </p> 
                     <p>nisi facilisis finibus. In euismod augue vitae nisi ultricies, non aliquet urna tincidunt. Integer</p>
-                    <p> augue ultrices, quis tristique nulla sodales. Suspendisse eget lorem eu turpis vestibulum pretium. Suspendisse</p>
+                    <p> augue ultrices, quis tristique nulla sodales. Suspendisse eget lorem eu turpis vestibulum pret.</p>
                     <p> in nisi eget nulla commodo faucibus efficitur quis massa. Praesent felis est, finibus et nis  </p>
                     ac, hendrerit venenatis libero. Donec consectetur faucibus ipsum id gravida</p>
                 </div>
-                <button className="bg-green-500 p-3 w-40 mt-6 rounded-lg hover:bg-green-800 ">
-                    <p className="text-white text-xl font-semibold">Learn More</p>
+                <button className="bg-[#43A046] p-3 w-40 mt-6 rounded-lg hover:bg-[#1B5E1F] ">
+                    <p className="text-white text-xl ">Learn More</p>
                 </button>
                 </div>
                 
