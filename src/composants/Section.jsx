@@ -1,16 +1,23 @@
 const Section = () => {
     return ( 
-        <section className="text-center lg:text-justify justify-center flex flex-wrap bg-neutral-100 gap-x-40 py-5 md:py-20 2xl:py-40 2xl:gap-x-72 gap-y-12">
-            <div>
-                <h1 className="text-black text-3xl md:text-4xl 2xl:text-5xl pt-5 2xl:pt-8 font-semibold">Lessons and insights</h1>
-                <h1 className="text-green-600 text-3xl md:text-4xl 2xl:text-5xl pb-3 font-semibold">from 8 years</h1>
-                <h1 className="text-gray-400 text-xs 2xl:text-lg 2xl:font-semibold pb-5">Where to grow your business as a photographer: site or social media?</h1>
-                <button className=" py-2 px-4 rounded bg-green-600 "> <a className="text-white " href="#">Register</a></button>
+        <section className="bg-[#F5F7FA]">
+            <div className="text-center lg:text-justify justify-center flex flex-wrap  gap-x-20 xl:gap-x-32 2xl:gap-x-52 py-5 md:py-20 gap-y-12">
+                <div>
+                    <h1 className="text-[#4D4D4D] text-3xl md:text-4xl xl:text-5xl 2xl:text-6xl pt-5 2xl:pt-8 font-semibold">Lessons and insights</h1>
+                    <h1 className="text-[#43A046] text-3xl md:text-4xl xl:text-5xl 2xl:text-6xl pb-3 font-semibold">from 8 years</h1>
+                    <h1 className="text-[#4D4D4D] text-xs  pb-5">Where to grow your business as a photographer: site or social media?</h1>
+                    <button className=" py-4 px-8 rounded bg-[#43A046] "> <a className="text-white " href="#">Register</a></button>
+                </div>
+                <div>
+                    <img className="h-64 lg:h-80 xl:h-auto" src="Assets/Illustration.png" alt="Hello" />
+                </div>
             </div>
-            <div>
-                <img className="w-56 h-56" src="Assets/F1.png" alt="Hello" />
+            <div className="justify-center flex flex-wrap pb-3">
+                <img className="h-5 md:h-auto" src="/Assets/Dot.png" alt="Dot" />
             </div>
+            
         </section>
+        
      );
 }
  

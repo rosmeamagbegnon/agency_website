@@ -5,7 +5,7 @@ const Footer = () => {
           <div className=" p-5 mt-5">
              <div className="flex">
                 <img src="/Assets/Icon2.png" alt="" className="w-[30px] h-[25px]"/>
-                <p className="ml-4 text-2xl font-bold text-white">Nexcent</p>
+                <p className="ml-4 text-2xl font-bold text-[#1FFFFF]">Nexcent</p>
              </div>
              <div className="mt-[16px] ml-[10px] text-white">
               <p className="mt-5">Copyright © 2020 Nexcent ltd.</p>
