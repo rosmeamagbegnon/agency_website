@@ -1,8 +1,8 @@
 const Footer = () => {
     return ( 
-      <section className="justify-center flex items-center ">
-        <section className="bg-slate-900 w-full min-h-80 relative flex flex-wrap">
-          <div className=" p-5 mt-5">
+      <section className="justify-center flex items-center  ">
+        <section className="bg-slate-900 w-full min-h-80 relative md:flex flex-wrap justify-center px-20 md:px-0">
+          <div className=" p-5 mt-10 ">
              <div className="flex">
                 <img src="/Assets/Icon2.png" alt="" className="w-[30px] h-[25px]"/>
                 <p className="ml-4 text-2xl font-bold text-[#1FFFFF]">Nexcent</p>
@@ -12,7 +12,7 @@ const Footer = () => {
               <p className="mt-3">All rights reserved</p>
              </div>
              <div className="flex mt-9">
-                <img src="/Assets/insta.png" alt="" />
+                <img src="/Assets/insta.png" alt="" className="ml-" />
                 <img src="/Assets/rond.png" alt="" className="ml-2" />
                 <img src="/Assets/twitter.png" alt="" className="ml-2" />
                 <img src="/Assets/youtube.png" alt=""  className="ml-2"/>

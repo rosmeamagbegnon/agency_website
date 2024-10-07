@@ -16,7 +16,7 @@ import { FaArrowRightLong } from "react-icons/fa6";const Smith = () => {
                     efficitur libero condimentum id. Curabitur id nibh id sem dignissim finibus ac sit amet magna.</p>
                 </div>
                 <div className="mt-5">
-                    <p className="text-green-400 md:text-2xl text-xl font-semibold">Tim Smith</p>
+                    <p className="text-primary md:text-2xl text-xl font-semibold">Tim Smith</p>
                     <p className="mt-3 md:text-xl text-sm">British Dragon Boat Racing Association</p>
                 </div>
                 <div className="flex flex-wrap mt-10">
@@ -28,8 +28,8 @@ import { FaArrowRightLong } from "react-icons/fa6";const Smith = () => {
                 <img src="/Assets/logo11.png" alt="" className="ml-5"/>
                 <img src="/Assets/logo5.png" alt="" className="ml-5"/>
                 <div className="flex" >
-                <p className="text-green-400 font-semibold md:text-xl text-sm mt-4 ml-4 cursor-pointer hover:text-green-800">Meet all customers</p>
-                <FaArrowRightLong className="text-green-600 inline-block mt-5 ml-3 text-2xl cursor-pointer hover:text-green-800" />
+                <p className="text-primary font-semibold md:text-xl text-sm mt-3 ml-4 cursor-pointer hover:text-green-800">Meet all customers</p>
+                <FaArrowRightLong className="text-primary inline-block mt-4 ml-3 text-2xl cursor-pointer hover:text-green-800" />
                 </div>
                 
             </div>
