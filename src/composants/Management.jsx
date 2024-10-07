@@ -8,9 +8,15 @@ const Management = () => {
             </div>
             <div className="justify-center gap-20 xl:gap-x-42 flex flex-wrap text-[#4D4D4D]">
                 <div className="text-center rounded-lg shadow p-4">
-                    <div className=" pl-20 bg-[#E8F5E9] rounded-br-3xl rounded-tr-sm ">
-                        <img className=" h-7 lg:h-12" src="Assets/F20.png" alt="Hello" />
+                    <div className="relative z-0">
+                        <div className=" pl-20">
+                            <img className="  lg:h-12" src="Assets/F20.png" alt="Hello" />
+                        </div>
+                        <div className="absolute -z-10 top-0 right-1/3">
+                            <img className="h-12" src="/Assets/Rec.png" alt="Rec" />
+                        </div>
                     </div>
+                    
                     <h1 className=" text-xl  2xl:font-semibold">Membership</h1>
                     <h1 className=" text-xl pb-1 2xl:font-semibold">Organisations</h1>
                     <h2 className=" text-xs ">Our membership management </h2>
@@ -18,9 +24,15 @@ const Management = () => {
                     <h2 className=" text-xs  ">membership renewals and payments</h2>
                 </div>
                 <div className="text-center rounded-lg shadow p-4">
-                    <div className="pl-24">
-                        <img className="  h-7 lg:h-12" src="Assets/F21.png" alt="Hello" />
+                    <div className="relative z-0">
+                        <div className="pl-20">
+                            <img className="  h-7 lg:h-12" src="Assets/F21.png" alt="Hello" />
+                        </div>
+                        <div className="absolute -z-10 top-0 right-1/3 ">
+                            <img className="h-12" src="/Assets/Rec.png" alt="Rec" />
+                        </div>
                     </div>
+                    
                     <h1 className=" text-xl  2xl:font-semibold">National</h1>
                     <h1 className=" text-xl  pb-1 2xl:font-semibold">Associations</h1>
                     <h2 className="text-xs">Our membership management </h2>
@@ -28,9 +40,15 @@ const Management = () => {
                     <h2 className=" text-xs ">membership renewals and payments</h2>
                 </div>
                 <div className="text-center rounded-lg shadow p-4">
-                    <div className="pl-24 ">
-                        <img className=" h-7 lg:h-12 " src="/Assets/F18.png" alt="Hello" />
+                    <div className="relative z-0">
+                        <div className="pl-20">
+                            <img className=" h-7 lg:h-12 " src="/Assets/F18.png" alt="Hello" />
+                        </div>
+                        <div className="absolute -z-10 top-0 right-1/3">
+                            <img className="h-12" src="/Assets/Rec.png" alt="Rec" />
+                        </div>
                     </div>
+                    
                     <h1 className=" text-xl  2xl:font-semibold">Clubs And</h1>
                     <h1 className=" text-xl pb-1 2xl:font-semibold">Groups</h1>
                     <h2 className=" text-xs ">Our membership management </h2>
