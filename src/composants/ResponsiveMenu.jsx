@@ -12,7 +12,7 @@ export const ResponsiveMenu = ({open}) => {
             transition={{ duration: 0.3 }}
             className="absolute top-20 left-0 w-full h-screen z-20"
           >
-          <div className='text-xl   bg-green-600 text-black py-5 m-5 rounded-3xl'>
+          <div className='text-xl   bg-[#43A046] text-black py-5 m-5 rounded-3xl'>
             <ul className='flex flex-col justify-center items-center gap-10'>
                 <li>Home</li>
                 <li>Service</li>

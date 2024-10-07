@@ -6,22 +6,27 @@ export const navbar=[
     },
     {
         id:2,
-        title: "Trainer",
+        title: "Service",
         link: "#",
     },
     {
         id:3,
-        title: "Programm",
+        title: "Feature",
         link: "#",
     },
     {
         id:4,
-        title: "Blogs",
+        title: "Product",
         link: "#",
     },
     {
         id:5,
-        title: "Pricing",
+        title: "Testimonial",
+        link: "#",
+    },
+    {
+        id:6,
+        title: "FAQ",
         link: "#",
     }
 ]
